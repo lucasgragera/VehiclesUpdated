@@ -9,7 +9,7 @@ public abstract class Vehicle {
         return model;
     }
 
-    protected Vehicle(String model) {
+    protected Vehicle(String model, int year) {
         this.model = model;
     }
 

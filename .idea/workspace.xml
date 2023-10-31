@@ -4,25 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d5be41c-ef27-43b9-84f3-aead08927790" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Bmw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Citroen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Fiat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/MercedesBenz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/MotorVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Porsche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Wheel.java" afterDir="false" />
+    <list default="true" id="9d5be41c-ef27-43b9-84f3-aead08927790" name="Changes" comment="VehiclesUpdated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Audi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Audi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Bmw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Citroen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Citroen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Wheel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698781728111</updated>
     </task>
+    <task id="LOCAL-00001" summary="VehiclesUpdated">
+      <option name="closed" value="true" />
+      <created>1698785761016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698785761016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VehiclesUpdated" />
+    <option name="LAST_COMMIT_MESSAGE" value="VehiclesUpdated" />
   </component>
 </project>

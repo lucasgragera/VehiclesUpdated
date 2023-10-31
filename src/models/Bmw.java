@@ -1,5 +1,7 @@
 package models;
 
+import java.util.Objects;
+
 public class Bmw extends MotorVehicle{
 
     // Constructor with parameters
@@ -11,4 +13,9 @@ public class Bmw extends MotorVehicle{
     public void move(){
         System.out.println("from Bmw class");
     }
+
+    //@Override
+    //public int hashCode() {
+    //    return Objects.hash(12, "Pirelli");
+    //}
 }

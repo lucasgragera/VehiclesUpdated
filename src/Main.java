@@ -1,5 +1,7 @@
 import models.*;
 
+import java.util.Objects;
+
 public class Main {
     public static void main(String[] args) {
         Vehicle audi = new Audi("A1", 2022);
@@ -22,8 +24,13 @@ public class Main {
         doSmth(porsche);
         doSmth(toyota);
 
+        //tyreSize(audi);
+        //tyreSize(Bmw);
+        //tyreSize(Citroen);
     }
         private static void doSmth(Vehicle vehicle){
             vehicle.move();
         }
+
+        //public static void tyreSize(Wheel hashcode)
 }
